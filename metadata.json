@@ -1,0 +1,6 @@
+{
+  "name": "InternSwipe",
+  "description": "Swipe-based virtual internship discovery and matching platform connecting students and companies with AI compatibility scoring.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
